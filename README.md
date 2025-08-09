@@ -12,4 +12,4 @@
     <img src="https://img.shields.io/github/followers/username_của_bạn?style=social" alt="GitHub followers">
   </a>
 </p>
-![Views](https://komarev.com/ghpvc/?username=nguyenhuuniem12022005)
+![Views](https://komarev.com/ghpvc/nguyenhuuniem12022005)
