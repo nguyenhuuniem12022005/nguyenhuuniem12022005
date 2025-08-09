@@ -5,10 +5,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuuniem12022005)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <a href="https://github.com/nguyenhuuniem12022005">
-    <img src="https://img.shields.io/github/stars/username_của_bạn?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/nguyenhuuniem12022005?style=social" alt="GitHub stars">
   </a>
   <a href="https://github.com/nguyenhuuniem12022005">
-    <img src="https://img.shields.io/github/followers/username_của_bạn?style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/nguyenhuuniem12022005?style=social" alt="GitHub followers">
   </a>
 </p>
 
