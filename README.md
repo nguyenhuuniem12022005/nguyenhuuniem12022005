@@ -11,6 +11,4 @@
     <img src="https://img.shields.io/github/followers/nguyenhuuniem12022005?style=social" alt="GitHub followers">
   </a>
 </p>
-<a href="https://github.com/nguyenhuuniem12022005/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuuniem12022005&repo=convoychat" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuuniem12022005&repo=github-readme-stats)](https://github.com/nguyenhuuniem12022005/github-readme-stats)
