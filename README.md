@@ -11,4 +11,6 @@
     <img src="https://img.shields.io/github/followers/nguyenhuuniem12022005?style=social" alt="GitHub followers">
   </a>
 </p>
-![NiemHuu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuuniem12022005)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuuniem12022005&repo=convoychat" />
+</a>
