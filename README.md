@@ -11,4 +11,4 @@
     <img src="https://img.shields.io/github/followers/nguyenhuuniem12022005?style=social" alt="GitHub followers">
   </a>
 </p>
-
+[![NiemHuu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuuniem12022005)](https://github.com/anuraghazra/github-readme-stats)
