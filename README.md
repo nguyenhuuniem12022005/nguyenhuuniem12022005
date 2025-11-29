@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![NiemHuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuuniem12022005&show_icons=true&theme=aura)
+![NiemHuu's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=nguyenhuuniem12022005&theme=aura)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuuniem12022005&theme=aura)
 <p align="center">
   <a href="https://github.com/nguyenhuuniem12022005">
