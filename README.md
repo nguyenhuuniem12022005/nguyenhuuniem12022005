@@ -31,13 +31,16 @@ Glad you stopped by!
 
 ## 📁 Featured Repositories
 
-| Repository | Description | Language |
-|------------|-------------|----------|
-| [codePTIT](https://github.com/nguyenhuuniem12022005/codePTIT) | Python exercises and solutions | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [code-java](https://github.com/nguyenhuuniem12022005/code-java) | Java programming practice | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| [SAMSUNG-DSA](https://github.com/nguyenhuuniem12022005/SAMSUNG-DSA) | Data Structures & Algorithms | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-| [DSA-PTIT](https://github.com/nguyenhuuniem12022005/DSA-PTIT) | DSA course materials | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-| [P-Market](https://github.com/nguyenhuuniem12022005/P-Market) | Web project | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| Repository | Description | Language | ⭐ |
+|------------|-------------|----------|:--:|
+| [codePTIT](https://github.com/nguyenhuuniem12022005/codePTIT) | Python exercises and solutions | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | 2 |
+| [code-java](https://github.com/nguyenhuuniem12022005/code-java) | Java programming practice | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | - |
+| [SAMSUNG-DSA](https://github.com/nguyenhuuniem12022005/SAMSUNG-DSA) | Data Structures & Algorithms | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | - |
+| [DSA-PTIT](https://github.com/nguyenhuuniem12022005/DSA-PTIT) | DSA course materials | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | 1 |
+| [P-Market](https://github.com/nguyenhuuniem12022005/P-Market) | Web project | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | - |
+| [DISCRETE_MATH_2_PTIT](https://github.com/nguyenhuuniem12022005/DISCRETE_MATH_2_PTIT) | Discrete Math 2 course | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | - |
+| [Processing-CIFAR-10-with-MLP-CNN](https://github.com/nguyenhuuniem12022005/Processing-CIFAR-10-with-MLP-CNN) | Image classification with MLP & CNN | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) | 1 |
+| [EPL-Football-Player-Performance-Analysis-Value-Estimation-2024-2025-](https://github.com/nguyenhuuniem12022005/EPL-Football-Player-Performance-Analysis-Value-Estimation-2024-2025-) | EPL Player Analysis & Value Estimation | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | 1 |
 
 ## ✨ Recent Highlights
 - 📝 Dozens of Java programming exercises for algorithms and OOP practice
