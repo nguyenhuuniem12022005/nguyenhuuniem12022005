@@ -11,32 +11,32 @@ Hi there :wave: Glad you stopped by.
 `Java` · `C/C++` · `Git` · `VS Code`
 
 ## GitHub stats
-<p align="center">
+<div align="center">
   <a href="https://github.com/nguyenhuuniem12022005?tab=followers">
     <img src="https://img.shields.io/github/followers/nguyenhuuniem12022005?style=social" alt="GitHub followers"/>
   </a>
   <a href="https://github.com/nguyenhuuniem12022005">
     <img src="https://img.shields.io/github/stars/nguyenhuuniem12022005?style=social" alt="GitHub stars"/>
   </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/nguyenhuuniem12022005">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhuuniem12022005&theme=aura" alt="GitHub streak stats"/>
-  </a>
-</p>
+  <br/>
 
-<p align="center">
   <a href="https://github.com/nguyenhuuniem12022005">
-    <img src="https://github-readme-stats.vercel.app/api?username=nguyenhuuniem12022005&show_icons=true&theme=aura" alt="GitHub stats card"/>
+    <img src="https://streak-stats.demolab.com?user=nguyenhuuniem12022005&theme=aura&hide_border=true" alt="GitHub streak stats"/>
   </a>
-</p>
 
-<p align="center">
+  <br/>
+
   <a href="https://github.com/nguyenhuuniem12022005">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuuniem12022005&layout=compact&theme=aura" alt="Top languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nguyenhuuniem12022005&show_icons=true&theme=aura&hide_border=true" alt="GitHub stats card"/>
   </a>
-</p>
+
+  <br/>
+
+  <a href="https://github.com/nguyenhuuniem12022005">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuuniem12022005&layout=compact&theme=aura&hide_border=true" alt="Top languages"/>
+  </a>
+</div>
 
 ## Recent highlights
 - Dozens of Java programming exercises for algorithms and OOP practice.
