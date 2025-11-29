@@ -1,44 +1,47 @@
-# Nguyen Huu Niem
+# 👋 Hi, I'm Nguyen Huu Niem
 
-Hi there :wave: Glad you stopped by.
+Glad you stopped by!
 
-- Focus: Java practice, algorithms, and data structures.
-- Currently polishing small console apps and refactoring class exercises.
-- I like clean, readable code and simple tools that do one thing well.
-- If you have ideas or feedback, feel free to open an issue or start a discussion.
+## 🚀 About Me
+- 🎯 **Focus:** Java practice, algorithms, and data structures
+- 💻 Currently polishing small console apps and refactoring class exercises
+- ✨ I like clean, readable code and simple tools that do one thing well
+- 💬 If you have ideas or feedback, feel free to open an issue or start a discussion
 
-## Tech I use
-`Java` · `C/C++` · `Git` · `VS Code`
+## 🛠️ Tech I use
 
-## GitHub stats
-<div align="center">
-  <a href="https://github.com/nguyenhuuniem12022005?tab=followers">
-    <img src="https://img.shields.io/github/followers/nguyenhuuniem12022005?style=social" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/nguyenhuuniem12022005">
-    <img src="https://img.shields.io/github/stars/nguyenhuuniem12022005?style=social" alt="GitHub stars"/>
-  </a>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-  <br/>
+## 📊 GitHub Stats
 
-  <a href="https://github.com/nguyenhuuniem12022005">
-    <img src="https://streak-stats.demolab.com?user=nguyenhuuniem12022005&theme=aura&hide_border=true" alt="GitHub streak stats"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/nguyenhuuniem12022005?style=social" alt="GitHub followers"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/nguyenhuuniem12022005?style=social" alt="GitHub stars"/>
+</p>
 
-  <br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nguyenhuuniem12022005&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
+</p>
 
-  <a href="https://github.com/nguyenhuuniem12022005">
-    <img src="https://github-readme-stats.vercel.app/api?username=nguyenhuuniem12022005&show_icons=true&theme=aura&hide_border=true" alt="GitHub stats card"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenhuuniem12022005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats card"/>
+</p>
 
-  <br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuuniem12022005&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
 
-  <a href="https://github.com/nguyenhuuniem12022005">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuuniem12022005&layout=compact&theme=aura&hide_border=true" alt="Top languages"/>
-  </a>
-</div>
+## ✨ Recent Highlights
+- 📝 Dozens of Java programming exercises for algorithms and OOP practice
+- 📁 Experiments with file handling, collections, and simple data models
+- 🔍 Always looking for cleaner solutions and better patterns
 
-## Recent highlights
-- Dozens of Java programming exercises for algorithms and OOP practice.
-- Experiments with file handling, collections, and simple data models.
-- Always looking for cleaner solutions and better patterns.
+---
+
+<p align="center">
+  <i>Thanks for visiting! Feel free to explore my repositories.</i>
+</p>
